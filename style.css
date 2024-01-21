@@ -1,10 +1,13 @@
-body {
-    text-align: ;
+body {padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
     background-color: 
     }
 
 img {
-    height: 500px;
-    width: 500 px;
+    height: 300px;
+    width: 300 px;
     border: solid 2px red;
 }
