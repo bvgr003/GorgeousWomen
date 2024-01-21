@@ -10,6 +10,7 @@ img {
     height: 300px;
     width: 300 px;
     border: solid 2px red;
+    border-radius: 10px;
 }
 button {
     height: 50px;
