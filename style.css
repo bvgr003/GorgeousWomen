@@ -4,8 +4,7 @@ body {padding-top: 20px;
     padding-right: 20px;
     text-align: center;
     background-color: black;
-    
-    }
+}
 
 img {
     height: 300px;
@@ -13,6 +12,7 @@ img {
     border: solid 2px red;
     border-radius: 10px;
 }
+
 button {
     padding: 20px;
     height: 100px;
