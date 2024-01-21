@@ -11,3 +11,7 @@ img {
     width: 300 px;
     border: solid 2px red;
 }
+button {
+    height: 50px;
+    width: 50 px;
+}
